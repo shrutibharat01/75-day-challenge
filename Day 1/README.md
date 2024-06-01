@@ -20,7 +20,7 @@ From mastering variables to understanding loops, we’re exploring the fundament
 
 Data types in Python classify the kinds of values that can be stored and manipulated within a program. They define the operations that can be performed on the data and the way it is stored.
 
-![Data types in Python](data_types.png)
+![Data types in Python](Snap1.png)
 
 ### Variables: The Building Blocks
 
@@ -30,7 +30,7 @@ Python is dynamically typed, meaning that the type of a variable is determined a
 
 In Python, you do not need to declare the type of a variable when you create one. You can change the type of a variable by assigning it a value of a different type.
 
-![Variables in Python](variables.png)
+![Variables in Python](Snap2.png)
 
 ### Keywords & Identifiers: The commanders & names
 
@@ -40,17 +40,17 @@ There are 33 keywords in Python.
 
 Identifiers are names used to identify variables, functions, classes, modules, or objects. They start with a letter (A-Z or a-z) or an underscore (_), followed by letters, underscores, or digits (0–9).
 
-![Keywords & identifiers in Python](keywords_identifiers.png)
+![Keywords & identifiers in Python](Snap3.png)
 
 ### Operators: The Mathematicians
 
-![Operators in Python](operators.png)
+![Operators in Python](Snap5.png)
 
 ### Conditional Statements: The Decision Makers
 
 Conditional statements allow us to steer the flow of our program, making it dynamic and responsive to different scenarios. Using if, else, and elif, we can execute code based on conditions.
 
-![Conditional statement in Python](conditional_statements.png)
+![Conditional statement in Python](Snap4.png)
 
 ### Loops: The Repeaters
 
@@ -67,7 +67,7 @@ Real-Life Example: Email Inbox
 
 In your email inbox, you receive multiple messages daily. Using loops, you can automate tasks like sorting, filtering, or marking emails as read/unread. Without loops, you’d need to manually process each email, which would be time-consuming and inefficient. They allow us to automate repetitive tasks efficiently.
 
-![Loops in Python](loops.png)
+![Loops in Python](Snap7.png)
 
 ### Loop control statements: Flow Regulators
 
@@ -85,13 +85,13 @@ Consider a traffic management system at a busy intersection. Loop control statem
 - continue Statement: Pedestrian crossing temporarily pauses vehicle traffic.
 - pass Statement: The system ignores minor issues, like sensor glitches, and continues normal operation.
 
-![Loop control statement in Python](loop_control_statements.png)
+![Loop control statement in Python](Snap8.png)
 
 ### Bonus Tips:
 
 Print() Function Parameters:
 
-![Print() fun parameters in Python](print_function_parameters.png)
+![Print() fun parameters in Python](Snap9.png)
 
 Thank you for reading! I’d love to hear your thoughts or questions about this blog on Python basics. Feel free to join the conversation in the comments below!
 
