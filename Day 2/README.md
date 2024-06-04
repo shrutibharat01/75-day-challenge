@@ -5,7 +5,7 @@ Hey there! 👋 Welcome back to Day 2 of our 75-Day Data Science Journey!
 Today, we dove into the fascinating realm of Python strings, which are super important for working with data. Let's journey together as we learn about strings and discover all the cool things we can do with them!
 
 ## Table of Contents:
-- Creating a string
+- [Creating a string](### Creating a string)
 - Accessing substrings from a string
 - Deleting a string
 - Operations on string
